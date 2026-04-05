@@ -11,7 +11,7 @@ This repository contains the backend implementation for the Finance Data Process
 * **Testing**: Jest & Supertest
 * **Containerization**: Docker
 
-## ⚡ Features Implemented
+##  Features Implemented
 1. **Role-Based Authentication (RBAC)**: Secure access using JWT (`Admin`, `Analyst`, `Viewer`).
 2. **Financial Records Management**: Complete CRUD supporting conditional access limits based on user role.
 3. **Advanced Querying**: Pagination, filtering (type, category, date limits) directly handled at the ORM level.
