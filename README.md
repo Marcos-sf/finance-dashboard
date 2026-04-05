@@ -39,6 +39,7 @@ Ensure you have `Node.js` installed perfectly on your machine.
 ```bash
 npm install
 npx prisma db push
+npx prisma db seed
 npm run dev
 ```
 
