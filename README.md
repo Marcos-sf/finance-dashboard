@@ -1,6 +1,6 @@
 # Finance Dashboard Backend
 
-This repository contains the backend implementation for the Finance Data Processing and Access Control system. It serves as an internship assignment demonstrating clean architecture, strict typings, robust error handling, and logical RESTful endpoints.
+This repository contains the backend implementation for the Finance Data Processing and Access Control system. Demonstrates clean architecture, strict typings, robust error handling, and logical RESTful endpoints.
 
 ##  Technology Stack
 * **Language**: TypeScript / Node.js
